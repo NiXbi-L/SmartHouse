@@ -1,1 +1,1 @@
-telegramAPI_TOKEN = '6250633608:AAGws1woq7MgliHClAzegKFNDF_kBrM3w0c'
+telegramAPI_TOKEN = ''
